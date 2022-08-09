@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/meme-generator-react/static/css/main.073c9b0a.css",
+    "main.js": "/meme-generator-react/static/js/main.0e0a36f1.js",
+    "static/js/787.e90e8eba.chunk.js": "/meme-generator-react/static/js/787.e90e8eba.chunk.js",
+    "static/media/logo.svg": "/meme-generator-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/meme-generator-react/index.html",
+    "main.073c9b0a.css.map": "/meme-generator-react/static/css/main.073c9b0a.css.map",
+    "main.0e0a36f1.js.map": "/meme-generator-react/static/js/main.0e0a36f1.js.map",
+    "787.e90e8eba.chunk.js.map": "/meme-generator-react/static/js/787.e90e8eba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0e0a36f1.js"
+  ]
+}
